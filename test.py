@@ -75,7 +75,7 @@ def messenger(message):
         # confirmation according to the selections
         answer = f'{str(r.lump.state)} {str(Selection[0])} pizza paid by {str(Selection[1])}'
         bot.send_message(message.chat.id, answer)
-        print('hey')
+        #print('hey')
     return
 
 
