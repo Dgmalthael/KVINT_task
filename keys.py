@@ -1,2 +1,2 @@
 #pls use your bot token instead of mine
-API_KEY = '5014590739:AAF4f4D-QzUCZyLg9TSKUwmsKijxpXGNqpE' #Bot token from @BotFather
+API_KEY = '' #Bot token from @BotFather
